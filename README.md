@@ -90,3 +90,8 @@ Use on prem scanners over public Internet.
 
 A car reservation system has long-running transactions. Which one of the following deployment methods should be avoided?
 Introduce a blue-green deployment model.
+
+Which network feature could help a company meet its global service expansion goals by reducing latency?
+Cloud Content Delivery Network (CDN)
+
+
