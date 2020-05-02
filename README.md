@@ -94,4 +94,8 @@ Introduce a blue-green deployment model.
 Which network feature could help a company meet its global service expansion goals by reducing latency?
 Cloud Content Delivery Network (CDN)
 
+Last week a region had a 1% failure rate in web tier VMs? How should you respond?
+- Perform a root cause analysis, reviewing cloud provider and deployment details to prevent similar future failures.
+
+
 
