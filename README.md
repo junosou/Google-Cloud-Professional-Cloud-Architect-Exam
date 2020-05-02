@@ -59,3 +59,13 @@ Ans: Fragment the monolithic platform into microservices.
 12. Which of the following business requirements can Cloud DNS help satisfy?
 Ans：Build a reliable and reproducible environment with scaled parity of production.
 
+25 (?) Which network feature could help a company meet its global service expansion goals by reducing latency?
+HTTP/TCP load balancing
+
+
+A healthcare company wants to compliantly use Cloud Storage to store customer medical (HIPAA) data.
+Execute a Business Associate Agreement (BAA), but you must still use the service in a HIPAA compliant way.
+
+
+A car reservation system has long-running transactions. Which one of the following deployment methods should be avoided?
+Introduce a pipeline deployment model.
