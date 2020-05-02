@@ -69,3 +69,8 @@ Execute a Business Associate Agreement (BAA), but you must still use the service
 
 A car reservation system has long-running transactions. Which one of the following deployment methods should be avoided?
 Introduce a pipeline deployment model.
+
+
+A company has a new IoT pipeline. Which services will make this design work?
+Cloud IoT Core, Cloud Pub/Sub
+
