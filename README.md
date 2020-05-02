@@ -74,3 +74,5 @@ Introduce a pipeline deployment model.
 A company has a new IoT pipeline. Which services will make this design work?
 Cloud IoT Core, Cloud Pub/Sub
 
+How to store data to be accessed once a month and not needed after five years.
+Nearline class, lifecycle policy to delete after 5 years.
