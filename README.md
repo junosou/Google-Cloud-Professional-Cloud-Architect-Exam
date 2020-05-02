@@ -12,3 +12,7 @@ Ans: Develop a script that mimics a zone outage and add it to the test.
 20. Release failures keep causing rollbacks in a web application. Fixes to QA process reduced rollbacks by 80%. What additional steps can you take?
 Ans: Fragment the monolithic platform into microservices.
 
+
+12. Which of the following business requirements can Cloud DNS help satisfy?
+Ans：Build a reliable and reproducible environment with scaled parity of production.
+
