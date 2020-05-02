@@ -16,6 +16,7 @@ Ans:Cloud Pub/Sub
 BigQuery
 
 Which service completes the CI/CD pipeline?
+Cloud PubºSub
 
 8. (?) Which service should be used in the icon with the question mark in the diagram?
 ANS: Cloud Container Builder
