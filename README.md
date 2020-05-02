@@ -87,3 +87,6 @@ Nearline class, lifecycle policy to delete after 5 years.
 
 A company wants penetration security testing that primarily matches an end user perspective.
 Use on prem scanners over public Internet.
+
+A car reservation system has long-running transactions. Which one of the following deployment methods should be avoided?
+Introduce a blue-green deployment model.
