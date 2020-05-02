@@ -1,0 +1,34 @@
+https://pbhadani.com/posts/gcp-pca-certification/
+How I passed Google Cloud Professional Cloud Architect Certificate
+ February 5, 2020  3 minutes read
+ Cloud
+ GCP
+I recently passed my Google Cloud Certified Professional Cloud Architect exam and many people asked for the preparation path I took for this exam. So, I thought of putting things together in a blog that can help others.
+
+Photo
+
+Exam Overview
+At the time of writing this blog, Professional Cloud Architect exam is of 2-hrs in duration and 50 questions. There is no official passing score published by Google so at the end of exam it only provides Pass/Fail as a result. However, it is assumed that roughly 80% is required to pass the exam based on various blogs and training providers.
+I would suggest reading the official certification guide before starting to prepare for the exam.
+
+How I prepared?
+There are no prerequisites for this exam. But I did the Associate Cloud Engineer exam before I took the Professional one. Also, I have been working with GCP Services for more than 3-years which also helped me.
+
+To be honest, getting this certificate is not an easy task and requires good preparation. I will share some key points which helped me pass the exam:
+
+Courses: There are many courses that are structured to gain the knowledge that covers the exam topics. Therefore, following a course helps to learn GCP in a structured way. I decided to do the Coursera Courses - Architecting with Google Compute Engine Specialization and Preparing for the Google Cloud Professional Cloud Architect Exam. Many blogs and online communities also suggested to do the Linux Academy Course but due to time constraints, I could not go through much.
+
+Hands-On Labs: Hands-on Labs which comes with the Coursera course help greatly in understanding and implementing the concepts and GCP services. I would suggest putting a great focus on Hands-on labs.
+
+Play with GCP: Addition to hands-on labs, I played with different GCP services to get a deeper knowledge.
+
+Case Studies: There were questions from case studies (roughly 25%) and understanding the case studies before exam saves a good time in the exam.
+
+Practice Tests: Google provides a small practice test that help to get an understanding of your readiness. Above mentioned Linux Academy course also offers a practice test. After finishing the courses and labs, I took practice tests and I was able to get 90-95% consistently.
+
+Industry experience: I have been working with Cloud technologies like AWS and GCP and that helped greatly in understanding the scenario-based questions and choosing the best option for a particular situation.
+
+Last, I suggest getting a deep understanding of core concepts like Google Networking, Cloud IAM, BigQuery, Storage, Kubernetes, and App Engine. Exam questions are not limited to the above topics, but understanding core concepts gives good confidence.
+
+I wish all the best to everyone preparing for this exam and would be glad to hear about your experience.
+My LinkedIn and Twitter.
