@@ -1,9 +1,12 @@
 # Google-Cloud-Professional-Cloud-Architect-Exam
 Google Cloud Professional Cloud Architect Exam
 
+1.How to keep data in synch across regions? Which service should be used in the icon with the question mark in the diagram?
+Cloud storage
+
 
 2. An existing application uses websockets. To help migrate the application to cloud you should:
-
+Do nothing to the application. HTTP(S) load balancing natively supports websocket proxying.
 
 
 19. A sales company runs weekly resiliency tests of the current build in a separate environment by replaying the last holiday sales load. What can improve resiliency?
