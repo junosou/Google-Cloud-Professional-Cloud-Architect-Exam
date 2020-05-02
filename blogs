@@ -1,0 +1,86 @@
+
+https://medium.com/@jk.jaiswal/how-i-passed-gcp-professional-cloud-architect-exam-during-this-summer-c90234c9f752
+
+https://altis.com.au/passing-gcps-professional-cloud-architect-exam/
+Passing GCP’s Professional Cloud Architect exam
+
+
+By Margaret Chan – GCP Practice Lead, New Zealand
+
+Altis recently launched our new cloud practice focused on Google’s Cloud Platform (GCP) and as the NZ GCP Practice Lead I recently sat the Professional Cloud Architect exam.  In this blog I will share my learnings and thoughts through the certification journey.  Hopefully this will be helpful if you are planning to go down this path too.  Good luck in advance!
+
+Online Certification Training
+Having made the decision to prepare for the exam, the most important choice is which training service you use. The two options I considered were:
+
+Linux Academy
+Coursera Course
+The key points to note are:
+
+Linux Academy
+Google Certified Professional Architect Part 1 and Part 2
+Thoughts
+Good starting point for understanding the concepts
+Not enough content to pass the exam
+The course was created back in 2017 so some areas are not as up to date as the Coursera course.
+Coursera
+Architecting with Google Cloud – 6 courses
+Elastic Cloud Infrastructure: Scaling and Automation
+Essential Cloud Infrastructure: Core Services
+Elastic Cloud Infrastructure: Container and Services
+Google Cloud Platform Fundamentals: Core Infrastructure
+Reliable Cloud Infrastructure: Design and Process
+Preparing for the Google Cloud Professional Cloud Architect Exam
+Thoughts:
+I did these 6 courses first which covers the majority of what the exam covers. The course follows closely with the exam outline which was helpful.
+The Case Studies section in the “Preparation” course is very helpful.
+Does not cover enough of Big Query.
+Does not cover how everything fits together from an architectural perspective.
+The real differentiators for me were:
+
+The Linux Academy course is not as current as the Coursera course.
+Whilst note taking is possible with both trainers, Coursera’s is much more efficient as it allows you capture the audio as it is heard so you can recap later. With Linux Academy you will need to type the content into flash cards
+Hands on Labs
+Going through labs is really the only way of making sure that you understand the content. I highly recommend that you get a subscription and get as much hands-on experience as you can. The Coursera course comes with Qwiklab exercises, but you need more than that to solidify your learnings. I did the three Qwiklabs, listed below, but there are more to choose from.
+
+Cloud Architecture
+Challenge: GCP Architecture
+Security & Identity Fundamentals
+The trap that is easily fallen into is rushing through the labs so you can tick off your weekly objectives. Try, if you have time, to explore what it is you are doing, even create your own real-world scenarios.
+
+Other Material
+Google is constantly updating cloud.google.com and YouTube with new content. My recommended reading, in addition to the content provided by your training provided includes:
+
+Best Practices and Reference Architecture
+Building scalable and resilient applications
+Best practices for enterprise organisations
+PCI Data Security Standard Compliance
+Building a Mobile Gaming Analytics Platform
+Best practices and reference architectures for VPC Design
+Certification Exam Guide
+Case Studies should be studied to make sure you find the right solutions based on business and technical requirements.
+Mountkirk
+Dress4Win
+Terramearth
+Practice Exams
+Ok, so you have studied the training content, taken notes and done the labs, now it’s time to see how much has stuck. I used the following resources, multiple times!
+
+Google Cloud Architect
+Whizlab
+Udemy
+Google’s practice exam was a good reflection of the final exam, thoughts on Whizlab and Udemy are:
+
+They are useful only to the extent of knowing how well you understand the various topics and areas that you need to work on. The actual exam questions were deeper than the questions in the practice.
+I did the Whizlab ones first and I found the Udemy questions are very similar. I think either one would be enough to grasp how well you know the various topics.
+Remember, it’s much cheaper, and less demoralising to fail a practice exam than the real one.
+
+Actual Exam
+Ok, time for the exam!! I felt well prepared, I had been studying part time for 3 months and spent a full week cramming the week before the exam. Without giving anything away, it took me 1.5 hours to go through all the questions, I needed to mark 15 questions marked for review. I ended up using all the time (2 hours) and I really thought I failed until I saw the word “PASS” on the screen.
+
+There is no official passing score, but I worked on the basis that it is something around 80% (as I have read from other people who have done the exams).
+
+In conclusion, I found the experience while challenging, very worthwhile as the exam content focuses on real business problems. We are in a disruptive time where a lot of our clients are either transitioning into cloud or considering cloud solutions. Having a good grasp of the different services, the recommended best practices as well as the reference architectures that are available and implemented worldwide are tremendously useful.
+
+If you are considering moving to the cloud, please contact either myself (NZ GCP Practice Lead) or Andrew Bilsdon (AU GCP Practice Lead).
+
+Related Articles:
+Putting together a roadmap to guide your Data & Analytics journey
