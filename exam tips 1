@@ -1,3 +1,4 @@
+#Tips1.
 Read through the exam guide outline.
 
 https://cloud.google.com/certification/guides/professional-cloud-architect/
@@ -10,3 +11,47 @@ There is no additional information about what any particular line means; no expl
 
 Use the Exam Guide outline to help identify what to study.
 The recommendation is for you to read through each line and think about what it actually means, what do you think it is saying about the job? Then ask yourself if you understand that aspect of the job and if you feel you have the skills required to be successful in that part of the job. If yes -- great. It is an indicator that you are prepared. If no -- take note. You may want to study additionally in that part or develop specific skills for that item in the Exam Guide.
+
+#Tips2
+Product and technology knowledge
+You need to know the basic information about each product that might be covered on the exam.
+
+You need to know:
+What it does, why it exists.
+What is special about its design, for what purpose or purposes was it optimized?
+When do you use it, and what are the limits or bounds when it is time to consider an alternative?
+What are the key features of this product or technology?
+Is there an Open Source alternative? If so, what are the key benefits of the cloud-based service over the Open Source software?
+Which products and technologies
+Training and Certification meet at the JTA -- the Job Task Analysis -- the skills required of the job.
+
+The scope of the exam matches the learning track and specialization in training. So a great place to derive a list of the technologies and products that might be on the exam is to look at all the products and technologies that are covered in the related training. The training might not cover everything. But it is a good place to start.
+
+Study methods
+Training is great. Digging into the online documentation can be very instructive and covers more detail than can be covered in a class, so documentation tends to have more equal coverage of features, whereas training has to prioritize its time. Getting hands on experience can help you understand a product or technology much better than reading and is the kind of experience a professional in the job would have. So labs can be a great way to prepare.
+
+
+#Tips3
+Touchstone concepts
+A touchstone concept is a complex or key idea -- something that you would learn in a class AFTER you have learned all the basic dependent concepts. They are used in this course because they are a very efficient way for you to learn where you have confidence and where more preparation might be needed.
+
+This approach is based on the Deeper Learning method of adult learning.
+
+Example
+People seem to be able to relate well to this example.
+
+Touchstone: "Unlike other vendor clouds, a subnet spans zones, enabling VMs with adjacent IPs to exist in separate zones, making design for availability easier to accomplish since the VMs can share tagged firewall rules."
+
+To understand the above statement, the basic dependent knowledge that must already be understood includes, Regions, Zones, Subnets, IP Addresses, and Firewall Rules.
+
+These basic concepts are not taught or reviewed in this course. They are taught in the training courses in this specialization and in the corresponding learning track in instructor led training.
+
+Advice: Evaluate the dependent basic concepts
+Assess your confidence with each touchstone concept as it is presented. Don't expect to be taught the basic concept. If you don't understand the touchstone at all, or if you don't feel confident in your knowledge of it, or if you feel there are specific elements of it that you don't understand or are not confident about -- take note!
+
+
+#Tips4
+
+This is an area where more preparation can be of benefit for you.
+
+Also -- note where you are confident, know the material, and the dependent concepts on which the touchstone is based. These areas require less preparation for you. So noting what you know well can help make your preparation activities more efficient.
