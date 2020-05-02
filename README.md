@@ -43,6 +43,12 @@ Use an automation tool, such as Jenkins.
 17. A microservice has intermittent problems that bursts logs. How can you trap it for live debugging?
 Set a log metric in Stackdriver logging, alert on it past a threshold.
 
+18 (?)
+A company wants penetration security testing that primarily matches an end user perspective.
+Ans: Use on prem scanners over public Internet.
+
+
+
 19. A sales company runs weekly resiliency tests of the current build in a separate environment by replaying the last holiday sales load. What can improve resiliency?
 Ans: Develop a script that mimics a zone outage and add it to the test.
 
