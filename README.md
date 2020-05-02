@@ -85,3 +85,5 @@ Develop a script that mimics a zone outage and add it to the test.
 How to store data to be accessed once a month and not needed after five years.
 Nearline class, lifecycle policy to delete after 5 years.
 
+A company wants penetration security testing that primarily matches an end user perspective.
+Use on prem scanners over public Internet.
