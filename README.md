@@ -30,11 +30,18 @@ Snapshot the root disk, create an image, and use the image for the new VM root d
 10. What security strategy would you recommend for PII (Personally Identifiable Information) data on Cloud Storage?
 No Cloud IAM roles to users, and granular ACLs on bucket.
 
+11. A company has decided to use Cloud SDK tools to deploy to App Engine Flexible. Which one of the following requirements does this meet?
+
+Requirement 3: Use managed services whenever possible.
+
 
 16. 
 How to automatically and simultaneously deploy new code to each cluster?
 Use an automation tool, such as Jenkins.
 
+
+17. A microservice has intermittent problems that bursts logs. How can you trap it for live debugging?
+Set a log metric in Stackdriver logging, alert on it past a threshold.
 
 19. A sales company runs weekly resiliency tests of the current build in a separate environment by replaying the last holiday sales load. What can improve resiliency?
 Ans: Develop a script that mimics a zone outage and add it to the test.
