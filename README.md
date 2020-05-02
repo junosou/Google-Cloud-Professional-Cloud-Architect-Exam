@@ -80,3 +80,8 @@ Nearline class, lifecycle policy to delete after 5 years.
 
 A sales company runs weekly resiliency tests of the current build in a separate environment by replaying the last holiday sales load. What can improve resiliency?
 Develop a script that mimics a zone outage and add it to the test.
+
+
+How to store data to be accessed once a month and not needed after five years.
+Nearline class, lifecycle policy to delete after 5 years.
+
